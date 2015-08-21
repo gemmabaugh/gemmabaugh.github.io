@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "New!"
+date:   2015-08-21 18:17:11
+categories: jekyll update
+---
+
+notes on how to get here
+
+open Emacs
+access file directory thingy
+to access file you want to change:
+type M-x eshell (M is alt button)
+
+eshell notes:
+cd [some directory] (change to that directory)
+cd .. (go up a directory)
+ls (list files)
+rm (remove file, doesn't go to recycle bin, deletes immediately)
+rm -r (very dangerous!!! remove everything in directory)
+jekyll serve (in ~/Documents/GitHub/gemmabaugh.github.io will serve the website locally/on my computer for previewing before publishing)
+
+helpful emacs notes:
+C-g (quits from anything running, useful if weird things happen)
+M = alt
+C = ctrl
+C-x 1 = close other windows that aren't selected
+C-x C-s = save
+M-x ffap = opens url or file name wherever cursor is located (useful when opening local url when using jekyll serve)
