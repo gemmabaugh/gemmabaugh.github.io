@@ -7,7 +7,7 @@ categories: writing
 
 I feel a little ambivalent about New Year's resolutions. On the one hand, they represent hopes and dreams for the future. How beautiful to start the year fresh, an adult-sized newborn ready to eat extra vegetables or start going to the gym more than once every other blue moon or stop wasting so much time on Facebook. On the other hand, time is a social construct---I mean, my best friend will be with her parents in China on New Year's Eve, because the Chinese New Year is on January 28th and, in China, December 31st will be just another Saturday and January 1st will be just another Sunday, so of course it makes sense for some Chinese pharmaceutical conference to be scheduled on the one holiday when Sophia Yin should be sitting in my basement, drinking champagne mixed with raspberry lemonade and watching a giant glittering ball descend down a flagpole in Times Square, instead of sitting in some crowd of really smart people listening to her parents lecture on complex chemical structures. What I'm trying to say is, you could make a resolution to change your life any time of the year. Why wait for "New year, new me!" or "Chinese new year, new me!" when you can shake things up any day? "Tuesday 5pm, new me!" might not have the same ring to it, but the resolution could still prove fruitful.
 
-Nevertheless, I am a citizen of this weird time-structured world with all its arbitrary rituals, so I have decided to pursue a New Year's resolution of my own: **Write one thing every day.** I might include short stories, microfiction, haiku, memoirs, free verse poetry, examinations of psychological research---whatever shows up in my head when inspiration strikes. Ideally, I'd try to keep this up daily for a year and then the habit would just sort of continue for the rest of my life. But, because I'd like to be slightly more realistic, I'm going to start with a goal of 1 month of writing every day.
+Nevertheless, I am a citizen of this weird time-structured world with all its arbitrary rituals, so I have decided to pursue a New Year's resolution of my own: **Write one thing every day.** I might include short stories, microfiction, haiku, memoirs, free verse poetry, examinations of psychological research---whatever shows up in my head when inspiration strikes. Ideally, I'd try to keep this up daily for a year and then the habit would just sort of continue for the rest of my life. But, because I'd like to be slightly more realistic, I'm going to start with the goal of writing something every day for the month of January.
 
 *On a semi-related note that will make more sense in a moment:*
 I love NPR. I listen to their shows on the 4-hour drive between my childhood home in Indiana and my college home in St. Louis. I read their articles as they appear on my Facebook News Feed. I click "like" on all their articles on my Facebook News Feed after I read them. I would put an NPR bumper sticker on my car, but I'm not really a bumper sticker kind of person, though I do respect those who are bumper sticker kinds of people. I have a lot of dreams, and one of them is to write for NPR... but they currently only have legal internships open and the most legal jargon I know is "plead the fifth" and that sound from the Law and Order: SVU intro that goes *dun dun*, so I've been focusing on other dreams for the time being.
@@ -18,20 +18,26 @@ As a pre-resolution aperitif, listed below are a few of the ads I wrote the othe
 
 
 
+
 **People Watching**
+
 Picture this: you're biding your time in a crowded location, perhaps families with small children are bustling through a department store or patrons are overflowing the seating area in an artisan coffee shop. What better way to spend your time than to imagine stories about the people around you? Look into the lives of strangers you've never met and try *People Watching!* the leisure activity that never goes out of style. Live! Ordinary people doing mildly entertaining things, now available at a park bench or train station platform near you.
 
 
 **Laughter**
+
 Studies show, laughter can ease the weight of the world on your shoulders in just one dose, with increasing improvements seen after repeated use. This product can be acquired in a variety of ways, from watching silly cat videos online to surprising friends in person with perfectly placed puns! Try laughter today for a happier, healthier you.
 
 
 **Daydreaming**
+
 Find your next daydream today! Take a trip with your imagination. Visit the places you'd love to go and do everything you've always wanted to do. Park your head in the clouds and let your mind wander! Don't worry, you can get back to the real world later.
 
 
 **Sun Masterpieces**
+
 Life looking bleak? Missing the beauty in being alive? Treat yourself to a sunrise or sunset. Feast your eyes on soothing hues from pink and orange to purple and blue. No matter how many you see, no two will ever be exactly the same. On display twice a day, nature's watercolors are waiting for you.
+
 
 
 
