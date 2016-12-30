@@ -18,5 +18,22 @@ As a pre-resolution aperitif, listed below are a few of the ads I wrote the othe
 
 
 
+**People Watching**
+Picture this: you're biding your time in a crowded location, perhaps families with small children are bustling through a department store or patrons are overflowing the seating area in an artisan coffee shop. What better way to spend your time than to imagine stories about the people around you? Look into the lives of strangers you've never met and try *People Watching!* the leisure activity that never goes out of style. Live! Ordinary people doing mildly entertaining things, now available at a park bench or train station platform near you.
+
+
+**Laughter**
+Studies show, laughter can ease the weight of the world on your shoulders in just one dose, with increasing improvements seen after repeated use. This product can be acquired in a variety of ways, from watching silly cat videos online to surprising friends in person with perfectly placed puns! Try laughter today for a happier, healthier you.
+
+
+**Daydreaming**
+Find your next daydream today! Take a trip with your imagination. Visit the places you'd love to go and do everything you've always wanted to do. Park your head in the clouds and let your mind wander! Don't worry, you can get back to the real world later.
+
+
+**Sun Masterpieces**
+Life looking bleak? Missing the beauty in being alive? Treat yourself to a sunrise or sunset. Feast your eyes on soothing hues from pink and orange to purple and blue. No matter how many you see, no two will ever be exactly the same. On display twice a day, nature's watercolors are waiting for you.
+
+
+
 [^1]: I cannot take much credit for the acronym. It was a happy accident, honestly.
 
