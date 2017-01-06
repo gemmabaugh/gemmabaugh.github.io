@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Gemma Alexandra Baugh is a 21 year old college student trying to figure out what to do with her life. If you have any ideas, feel free to contact her at the email listed at the bottom of this page.
+Gemma Alexandra Baugh is a 21 year old college student trying to figure out what to do with her life. If you have any ideas, feel free to contact her via the email listed at the bottom of this page.
 
 Three words that describe Gemma, all beginning with the letter C: 
 : 1. Compassionate
