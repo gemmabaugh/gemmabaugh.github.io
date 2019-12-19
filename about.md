@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Gemma Alexandra Baugh is a 21-year-old college student trying to figure out what to do with her life. If you have any ideas, feel free to contact her via the email listed at the bottom of this page.
+Gemma Alexandra Baugh is a master's level social work student at the Mandel School of Applied Social Sciences at Case Western Reserve University.
 
 Three words that describe Gemma, all beginning with the letter C: 
 : 1. Compassionate
@@ -29,14 +29,13 @@ Gemma's interests include:
    * sewing
    * graphic design
    * wheelthrown pottery
-* experiencing art
 * listening to music
-   * too many genres to list
 * listening to podcasts
-   * NPR's TED Radio Hour
+   * Throughline
    * PRI's The World
+   * Reveal
 * exercising
-   * cycling
+   * weightlifting
    * running
    * yoga-ing
    * rollerblading
